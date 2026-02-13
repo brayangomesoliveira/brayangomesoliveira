@@ -1,5 +1,6 @@
 <h1 align="center">Brayan Gomes de Oliveira</h1>
 
+###
 
 <h2 align="left">ABOUT ME</h2>
 
@@ -57,11 +58,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brayangomesoliveira/brayangomesoliveira/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brayangomesoliveira/brayangomesoliveira/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/brayangomesoliveira/brayangomesoliveira/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/brayangomesoliveira/brayangomesoliveira/output/snake.svg" alt="Snake animation" />
 
 ###
 
