@@ -58,10 +58,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/brayangomesoliveira/brayangomesoliveira/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=brayangomesoliveira.brayangomesoliveira&left_color=black&right_color=blue"  />
 </div>
